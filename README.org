@@ -1,0 +1,10 @@
+* group-by
+
+A Common Lisp library to help group data into trees (of various formats) based on common/shared values
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/group-by.git   |
+| commit  | 49861c2  |
+| systems | group-by |
+|---------+-------------------------------------------|
+
